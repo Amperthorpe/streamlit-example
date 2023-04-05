@@ -1,2 +1,3 @@
 venv/
-secrets.py
+secretive.py
+.DS_Store
