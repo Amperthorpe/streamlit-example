@@ -128,5 +128,5 @@ def check_password():
         return True
 
 
-if True or check_password():
+if check_password():
     main()
